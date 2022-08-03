@@ -1,0 +1,2 @@
+# configServer
+common confirugation file 
